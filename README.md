@@ -33,5 +33,5 @@ Prints the total price, and if stock is zero, displays "out of stock."
 Deletes a record by asking the user to input a barcode.
 Creates a new file "Storagenew" without the record to be deleted, and file names are swapped.
 
-### Conclusion:
+## Conclusion:
 The project successfully utilizes C++ features such as file handling, conditional statements, loops, and functions to implement a fully functional departmental store system for inventory management.
